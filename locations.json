@@ -1,0 +1,34 @@
+{
+    "empty chunk": {
+        "dimension": "overworld",
+        "coords": {
+            "x": 296,
+            "y": -50,
+            "z": -838
+        }
+    },
+    "ohio": {
+        "dimension": "nether",
+        "coords": {
+            "x": 2,
+            "y": 1,
+            "z": 3
+        }
+    },
+    "a new place": {
+        "dimension": "overworld",
+        "coords": {
+            "x": 2,
+            "y": 3,
+            "z": 4
+        }
+    },
+    "balls": {
+        "dimension": "overworld",
+        "coords": {
+            "x": 2,
+            "y": 3,
+            "z": 3
+        }
+    }
+}
